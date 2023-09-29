@@ -1,2 +1,3 @@
 Hello World!
 Welcome to the first steps of coding
+This is to try commit using Visual Code
